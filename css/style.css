@@ -1,0 +1,54 @@
+.navbar {
+	margin-bottom: 50px;
+	border-radius: 0;
+	}
+    
+.jumbotron {
+	margin-bottom: 0;
+	padding-top: 5px;
+	padding-bottom: 0px;
+	background-image: url('/img/back.jpg');
+    }
+
+    footer {
+	background-color: #f2f2f2;
+    padding: 25px;
+    }
+
+#head {
+	font-size: 300%;
+	font-style: oblique;
+	}
+	
+.table {margin-bottom: 0;}
+
+#mail {
+	font-size: 200%;
+	font-style: oblique;
+	text-align: center;
+	}
+	
+#icons {vertical-align: middle;}
+	
+#toTop {
+	position:fixed;
+	z-index:9999;
+	bottom:25px;
+	right:35px;
+	background:url('/img/arrow.png') no-repeat;
+	width:64px;
+	height:64px;
+	border:0;
+	padding:5px;
+	cursor:pointer;
+	color:transparent;
+	text-decoration:none;
+	}
+	
+.jap_description {
+	margin-top: 1em;
+}
+
+.resin_description {
+	margin-top: 1em;
+}
